@@ -11,6 +11,7 @@ This repo is used for recording and tracking recent personalized image generatio
     - [Style-Driven Generation](#Style-Driven-Generation)
     - [High-level Semantics Generation](#High-level-Semantics-Generation)
     - [Multiple Concepts Generation](#Multiple-Concepts-Generation)
+    - [Text-driven Image Editing](#Text-driven-Image-Editing)
     - [Personalized Video Generation](#Personalized-Video-Generation)
     - [Personalized 3D Generation](#Personalized-3D-Generation)
 - [Personalization with AR Models](#Personalization-with-AR-Models)
@@ -959,7 +960,7 @@ Arxiv 2023. / [PDF](https://arxiv.org/abs/2309.03599)
 ICCV 2023. / [PDF](https://arxiv.org/abs/2303.13508) / [Project](https://dreambooth3d.github.io/) 
 
 
-### Text-driven Editing
+### Text-driven Image Editing
 
 **Stable Flow: Vital Layers for Training-Free Image Editing**<br>
 *Avrahami, Omri and Patashnik, Or and Fried, Ohad and Nemchinov, Egor and Aberman, Kfir and Lischinski, Dani and Cohen-Or, Daniel.*<br>
