@@ -1,8 +1,12 @@
 # Personalization Image Generation with Generative Models
 
-This repo is used for recording and tracking recent personalized image generation with different generative models.
+This repo is used for recording and tracking recent personalized image generation with different generative models. For more detailed information, please refer to our survey paper: [Personalized Image Generation with Deep Generative Models: A Decade Survey](https://arxiv.org/pdf/2502.13081).
+
+![](assets/personalization_methods.png)
 
 ## Contents
+
+![](assets/outline.png)
 
 - [Personalization with Diffusion Models](#Personalization-with-Diffusion-Models)
     - [Subject-Driven Generation](#Subject-Driven-Generation)
@@ -527,6 +531,11 @@ ECCV 2024.  / [PDF](https://arxiv.org/abs/2404.03620)  / [Project](https://lcm-l
 *Chen, Weifeng and Zhang, Jiacheng and Wu, Jie and Wu, Hefeng and Xiao, Xuefeng and Lin, Liang.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2404.15449)  / [Project](https://idaligner.github.io/)  / [Code](https://github.com/Weifeng-Chen/ID-Aligner)
 
+**CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**<br>
+*Qinghe Wang, Baolu Li, Xiaomin Li, Bing Cao, Liqian Ma, Huchuan Lu, Xu Jia*<br>
+Arxiv 2024.  / [PDF](https://arxiv.org/abs/2404.15677)  / [Project](https://qinghew.github.io/CharacterFactory/)  / [Code](https://github.com/qinghew/CharacterFactory)
+
+
 **Consistentid: Portrait generation with multimodal fine-grained identity preserving**<br>
 *Huang, Jiehui and Dong, Xiao and Song, Wenhui and Li, Hanhui and Zhou, Jun and Cheng, Yuhao and Liao, Shutao and Chen, Long and Yan, Yiqiang and Liao, Shengcai and {others}.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2404.16771)  / [Project](https://ssugarwh.github.io/consistentid.github.io/)  / [Code](https://github.com/JackAILab/ConsistentID)
@@ -768,6 +777,10 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2410.02483)
 **ImPoster: Text and Frequency Guidance for Subject Driven Action Personalization using Diffusion Models**<br>
 *Kothandaraman, Divya and Kulkarni, Kuldeep and Shekhar, Sumit and Srinivasan, Balaji Vasan and Manocha, Dinesh.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2409.15650)  / [Code](https://github.com/divyakraman/ImPosterDiffusion2024)
+
+**Customizing Text-to-Image Generation with Inverted Interaction**<br>
+*Mengmeng Ge, Xu Jia, Takashi Isobe, Xiaomin Li, Qinghe Wang, Jing Mu, Dong Zhou, liwang Amd, Huchuan Lu, Lu Tian, Ashish Sirasao, Emad Barsoum*<br>
+ACM MM 2024. / [PDF](https://openreview.net/pdf?id=3Xx2MgYX67) 
 
 **Lego: Learning to disentangle and invert concepts beyond object appearance in text-to-image diffusion models**<br>
 *Motamed, Saman and Paudel, Danda Pani and Van Gool, Luc.*<br>
@@ -1308,6 +1321,10 @@ Arxiv 2018.  / [PDF](https://arxiv.org/abs/1812.01161)
 
 ## Related Surveys
 
+**Image Inversion: A Survey from GANs to Diffusion and Beyond**<br>
+*Yinan Chen, Jiangning Zhang, Yali Bi, Xiaobin Hu, Teng Hu, Zhucun Xue, Ran Yi, Yong Liu, Ying Tai*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.11974)  / [Code](https://github.com/RyanChenYN/ImageInversion)
+
 **Conditional Image Synthesis with Diffusion Models: A Survey**<br>
 *Zhan, Zheyuan and Chen, Defang and Mei, Jian-Ping and Zhao, Zhenghe and Chen, Jiawei and Chen, Chun and Lyu, Siwei and Wang, Can.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2409.19365)  / [Code](https://github.com/zju-pi/Awesome-Conditional-Diffusion-Models)
@@ -1323,4 +1340,12 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2405.05538)
 **Controllable generation with text-to-image diffusion models: A survey**<br>
 *Cao, Pu and Zhou, Feng and Song, Qing and Yang, Lu.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2403.04279)  / [Code](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)
+
+**A Survey on Leveraging Pre-trained Generative Adversarial Networks for Image Editing and Restoration**<br>
+*Ming Liu, Yuxiang Wei, Xiaohe Wu, Wangmeng Zuo, Lei Zhang*<br>
+SCIS. / [PDF](https://arxiv.org/abs/2207.10309) / [Code](https://github.com/csmliu/pretrained-GANs)
+
+**GAN Inversion: A Survey**<br>
+*Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang*<br>
+TPAMI 2022. / [PDF](https://arxiv.org/abs/2101.05278) / [Code](https://github.com/weihaox/GAN-Inversion)
 
