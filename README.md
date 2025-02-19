@@ -113,6 +113,10 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2409.08248)  / [Project](https://text
 *Xiao, Shitao and Wang, Yueze and Zhou, Junjie and Yuan, Huaying and Xing, Xingrun and Yan, Ruiran and Wang, Shuting and Huang, Tiejun and Liu, Zheng.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2409.11340)  / [Project](https://vectorspacelab.github.io/OmniGen/)  / [Code](https://github.com/VectorSpaceLab/OmniGen)
 
+**Equilibrated Diffusion: Frequency-aware Textual Embedding for EquilibratedImage Customization**<br>
+*Liyuan Ma, Xueji Fang, Guo-Jun Qi*<br>
+ACM MM 2024 Oral. / [PDF](https://openreview.net/pdf?id=ERuypCHYvX) / [Project](https://maple-aigc.github.io/EqDiff/) / [Code](https://github.com/maple-research-lab/EqDiff)
+
 **IPAdapter-Instruct: Resolving Ambiguity in Image-based Conditioning using Instruct Prompts**<br>
 *Rowles, Ciara and Vainer, Shimon and De Nigris, Dante and Elizarov, Slava and Kutsy, Konstantin and Donné, Simon.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2408.03209)  / [Project](https://unity-research.github.io/IP-Adapter-Instruct.github.io/)  / [Code](https://github.com/unity-research/IP-Adapter-Instruct)
@@ -897,6 +901,10 @@ NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2305.18292)  / [Code](https://githu
 CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www.cs.cmu.edu/~custom-diffusion)  / [Code](https://github.com/adobe-research/custom-diffusion)
 
 ### Personalized Video Generation
+
+**Phantom: Subject-consistent video generation via cross-modal alignment**<br>
+*Lijie Liu, Tianxiang Ma, Bingchuan Li, Zhuowei Chen, Jiawei Liu, Qian He, Xinglong Wu*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.11079) / [Project](https://phantom-video.github.io/Phantom/) / [Code](https://github.com/Phantom-video/Phantom)
 
 **CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**<br>
 *D. She, Mushui Liu, Jingxuan Pang, Jin Wang, Zhen Yang, Wanggui He, Guanghao Zhang, Yi Wang, Qihan Huang, Haobin Tang, Yunlong Yu, Siming Fu*<br>
