@@ -690,6 +690,10 @@ Arxiv 2023.  / [PDF](https://arxiv.org/abs/2311.11243)  / [Project](https://aim-
 *Pan, Xichen and Qin, Pengda and Li, Yuhong and Xue, Hui and Chen, Wenhu.*<br>
 WACV 2024.  / [PDF](https://arxiv.org/abs/2211.10950v1)  / [Code](https://github.com/xichenpan/ARLDM)
 
+**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**<br>
+*Avrahami, Omri and Hertz, Amir and Vinker, Yael and Arar, Moab and Fruchter, Shlomi and Fried, Ohad and Cohen-Or, Daniel and Lischinski, Dani.*<br>
+SIGGRPAH 2024.  / [PDF](https://arxiv.org/abs/2311.10093)  / [Project](https://omriavrahami.com/the-chosen-one/)  / [Code](https://github.com/ZichengDuan/TheChosenOne)
+
 ### Style-Driven Generation
 
 **UnZipLoRA: Separating Content and Style from a Single Image**<br>
@@ -1022,6 +1026,14 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2211.09794v1)  / [Project](https://nul
 **Prompt-to-prompt image editing with cross attention control**<br>
 *Hertz, Amir and Mokady, Ron and Tenenbaum, Jay and Aberman, Kfir and Pritch, Yael and Cohen-Or, Daniel.*<br>
 ICLR 2023.  / [PDF](https://arxiv.org/abs/2208.01626)  / [Project](https://prompt-to-prompt.github.io)  / [Code](https://github.com/google/prompt-to-prompt)
+
+**Blended Latent Diffusion**<br>
+*Avrahami, Omri and Fried, Ohad and Lischinski, Dani.*<br>
+SIGGRAPH 2023.  / [PDF](https://arxiv.org/abs/2206.02779)  / [Project](https://omriavrahami.com/blended-latent-diffusion-page/)  / [Code](https://github.com/omriav/blended-latent-diffusion)
+
+**Blended Diffusion: Text-driven Editing of Natural Images**<br>
+*Avrahami, Omri and Lischinski, Dani and Fried, Ohad.*<br>
+CVPR 2022.  / [PDF](https://arxiv.org/abs/2111.14818)  / [Project](https://omriavrahami.com/blended-diffusion-page/)  / [Code](https://github.com/omriav/blended-diffusion)
 
 ## Personalization with AR Models
 
