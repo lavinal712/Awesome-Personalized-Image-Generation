@@ -804,6 +804,18 @@ SIGGRAPH Asia 2024.  / [PDF](https://arxiv.org/abs/2303.13495)  / [Project](http
 
 ### Multiple Concepts Generation
 
+**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**<br>
+*Ziheng Ouyang, Zhen Li, Qibin Hou*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2502.18461) / [Project](https://k-lora.github.io/K-LoRA.io/) / [Code](https://github.com/HVision-NKU/K-LoRA)
+
+**FlipConcept: Tuning-Free Multi-Concept Personalization for Text-to-Image Generation**<br>
+*Young Beom Woo, Sun Eung Kim*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2502.15203) 
+
+**IP-Composer: Semantic Composition of Visual Concepts**<br>
+*Sara Dorfman, Dana Cohen-Bar, Rinon Gal, Daniel Cohen-Or*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.13951) / [Project](https://ip-composer.github.io/IP-Composer/) / [Code](https://github.com/ip-composer)
+
 **Multitwine: Multi-Object Compositing with Text and Layout Control**<br>
 *Gemma Canet Tarrés, Zhe Lin, Zhifei Zhang, He Zhang, Andrew Gilbert, John Collomosse, Soo Ye Kim*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.05165)
@@ -906,6 +918,14 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www
 
 ### Personalized Video Generation
 
+**FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**<br>
+*Yunpeng Zhang, Qiang Wang, Fan Jiang, Yaqi Fan, Mu Xu, Yonggang Qi*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.13995) / [Project](https://fantasy-amap.github.io/fantasy-id/) / [Code](https://github.com/Fantasy-AMAP/fantasy-id)
+
+**Dynamic Concepts Personalization from Single Videos**<br>
+*Rameen Abdal, Or Patashnik, Ivan Skorokhodov, Willi Menapace, Aliaksandr Siarohin, Sergey Tulyakov, Daniel Cohen-Or, Kfir Aberman*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.14844) / [Project](https://snap-research.github.io/dynamic_concepts/)
+
 **Phantom: Subject-consistent video generation via cross-modal alignment**<br>
 *Lijie Liu, Tianxiang Ma, Bingchuan Li, Zhuowei Chen, Jiawei Liu, Qian He, Xinglong Wu*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.11079) / [Project](https://phantom-video.github.io/Phantom/) / [Code](https://github.com/Phantom-video/Phantom)
@@ -986,6 +1006,14 @@ ICCV 2023. / [PDF](https://arxiv.org/abs/2303.13508) / [Project](https://dreambo
 
 
 ### Text-driven Image Editing
+
+**KV-Edit: Training-Free Image Editing for Precise Background Preservation**<br>
+*Tianrui Zhu, Shiyi Zhang, Jiawei Shao, Yansong Tang*<br>
+Arxiv 2024.  / [PDF](https://arxiv.org/abs/2502.17363)  / [Project](https://partedit.github.io/PartEdit/) 
+
+**PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**<br>
+*Aleksandar Cvejic, Abdelrahman Eldesokey, Peter Wonka*<br>
+Arxiv 2024.  / [PDF](https://arxiv.org/abs/2502.04050)  / [Project](https://xilluill.github.io/projectpages/KV-Edit/) / [Code](https://github.com/Xilluill/KV-Edit)
 
 **Stable Flow: Vital Layers for Training-Free Image Editing**<br>
 *Avrahami, Omri and Patashnik, Or and Fried, Ohad and Nemchinov, Egor and Aberman, Kfir and Lischinski, Dani and Cohen-Or, Daniel.*<br>
