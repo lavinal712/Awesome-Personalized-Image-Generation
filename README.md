@@ -29,12 +29,16 @@ This repo is used for recording and tracking recent personalized image generatio
 
 ### Subject-Driven Generation
 
-**Generating Multi-Image Synthetic Data for Text-to-Image Customization**  
-*Nupur Kumari, Xi Yin, Jun-Yan Zhu, Ishan Misra, Samaneh Azadi*  
+**ACCORD: Alleviating Concept Coupling through Dependence Regularization for Text-to-Image Diffusion Personalization**<br>
+*Shizhan Liu, Hao Zheng, Hang Yu, Jianguo Li*<br>
+Arxiv 2025. / [PDF](https://www.arxiv.org/abs/2503.01122)
+
+**Generating Multi-Image Synthetic Data for Text-to-Image Customization**<br>
+*Nupur Kumari, Xi Yin, Jun-Yan Zhu, Ishan Misra, Samaneh Azadi*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.01720) / [Project](https://www.cs.cmu.edu/~syncd-project/) / [Code](https://github.com/nupurkmr9/syncd)
 
-**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**  
-*Vera Soboleva, Maksim Nakhodnov, Aibek Alanov*  
+**Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation**<br>
+*Vera Soboleva, Maksim Nakhodnov, Aibek Alanov*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.05895) 
 
 **Nested Attention: Semantic-aware Attention Values for Concept Personalization**<br>
@@ -1007,13 +1011,21 @@ ICCV 2023. / [PDF](https://arxiv.org/abs/2303.13508) / [Project](https://dreambo
 
 ### Text-driven Image Editing
 
+**Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**<br>
+*Rui Jiang, Xinghe Fu, Guangcong Zheng, Teng Li, Taiping Yao, Xi Li*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.04215)
+
+**h-Edit: Effective and Flexible Diffusion-Based Editing via Doob's h-Transform**<br>
+*Toan Nguyen, Kien Do, Duc Kieu, Thin Nguyen*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.02187) / [Code](https://github.com/nktoan/h-edit)
+
 **KV-Edit: Training-Free Image Editing for Precise Background Preservation**<br>
 *Tianrui Zhu, Shiyi Zhang, Jiawei Shao, Yansong Tang*<br>
-Arxiv 2024.  / [PDF](https://arxiv.org/abs/2502.17363)  / [Project](https://partedit.github.io/PartEdit/) 
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.17363)  / [Project](https://partedit.github.io/PartEdit/) 
 
 **PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models**<br>
 *Aleksandar Cvejic, Abdelrahman Eldesokey, Peter Wonka*<br>
-Arxiv 2024.  / [PDF](https://arxiv.org/abs/2502.04050)  / [Project](https://xilluill.github.io/projectpages/KV-Edit/) / [Code](https://github.com/Xilluill/KV-Edit)
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.04050)  / [Project](https://xilluill.github.io/projectpages/KV-Edit/) / [Code](https://github.com/Xilluill/KV-Edit)
 
 **Stable Flow: Vital Layers for Training-Free Image Editing**<br>
 *Avrahami, Omri and Patashnik, Or and Fried, Ohad and Nemchinov, Egor and Aberman, Kfir and Lischinski, Dani and Cohen-Or, Daniel.*<br>
@@ -1369,6 +1381,10 @@ Arxiv 2018.  / [PDF](https://arxiv.org/abs/1812.01161)
 
 ## Related Surveys
 
+**Personalized Generation In Large Model Era: A Survey**<br>
+*Yiyan Xu, Jinghao Zhang, Alireza Salemi, Xinting Hu, Wenjie Wang, Fuli Feng, Hamed Zamani, Xiangnan He, Tat-Seng Chua*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.02614)
+
 **Image Inversion: A Survey from GANs to Diffusion and Beyond**<br>
 *Yinan Chen, Jiangning Zhang, Yali Bi, Xiaobin Hu, Teng Hu, Zhucun Xue, Ran Yi, Yong Liu, Ying Tai*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.11974)  / [Code](https://github.com/RyanChenYN/ImageInversion)
@@ -1391,7 +1407,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2403.04279)  / [Code](https://github.
 
 **A Survey on Leveraging Pre-trained Generative Adversarial Networks for Image Editing and Restoration**<br>
 *Ming Liu, Yuxiang Wei, Xiaohe Wu, Wangmeng Zuo, Lei Zhang*<br>
-SCIS. / [PDF](https://arxiv.org/abs/2207.10309) / [Code](https://github.com/csmliu/pretrained-GANs)
+SCIS 2023. / [PDF](https://arxiv.org/abs/2207.10309) / [Code](https://github.com/csmliu/pretrained-GANs)
 
 **GAN Inversion: A Survey**<br>
 *Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang*<br>
