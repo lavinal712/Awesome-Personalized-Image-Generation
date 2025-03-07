@@ -47,7 +47,7 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2501.01407)  / [Project](https://snap
 
 **AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models**<br>
 *Li, Xinghui and Sun, Qichao and Zhang, Pengze and Ye, Fulong and Liao, Zhichao and Feng, Wanquan and Zhao, Songtao and He, Qian.*<br>
-CVPR 2024.  / [PDF](https://arxiv.org/abs/2412.04146)  / [Project](https://crayon-shinchan.github.io/AnyDressing/)  / [Code](https://github.com/Crayon-Shinchan/AnyDressing)
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2412.04146)  / [Project](https://crayon-shinchan.github.io/AnyDressing/)  / [Code](https://github.com/Crayon-Shinchan/AnyDressing)
 
 **Customized Generation Reimagined: Fidelity and Editability Harmonized**<br>
 *Jin, Jian and Shen, Yang and Fu, Zhenyong and Yang, Jian.*<br>
