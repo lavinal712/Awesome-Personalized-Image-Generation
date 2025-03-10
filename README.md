@@ -946,6 +946,10 @@ Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.07802) / [Project](https://jeff-l
 *Yi Huang, Wei Xiong, He Zhang, Chaoqi Chen, Jianzhuang Liu, Mingfu Yan, Shifeng Chen*<br>
 Arxiv 2024. / [PDF](https://arxiv.org/abs/2412.03347) / [Project](https://dino-video-editing.github.io/)
 
+**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**<br>
+*Tao Wu, Yong Zhang, Xiaodong Cun, Zhongang Qi, Junfu Pu, Huanzhang Dou, Guangcong Zheng, Ying Shan, Xi Li*<br>
+Arxiv 2024. / [PDF](https://arxiv.org/abs/2412.19645) / [Project](https://wutao-cs.github.io/VideoMaker/) / [Code](https://github.com/WuTao-CS/VideoMaker)
+
 **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models**<br>
 *Xiaomin Li, Xu Jia, Qinghe Wang, Haiwen Diao, Mengmeng Ge, Pengxiang Li, You He, Huchuan Lu*<br>
 Arxiv 2024. / [PDF](https://arxiv.org/abs/2412.01343) / [Code](https://github.com/XiaominLi1997/MoTrans)
