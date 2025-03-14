@@ -29,6 +29,30 @@ This repo is used for recording and tracking recent personalized image generatio
 
 ### Subject-Driven Generation
 
+**UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer**<br>
+*Haoxuan Wang, Jinlong Peng, Qingdong He, Hao Yang, Ying Jin, Jiafu Wu, Xiaobin Hu, Yanjie Pan, Zhenye Gan, Mingmin Chi, Bo Peng, Yabiao Wang*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.09277) / [Code](https://github.com/Xuan-World/UniCombine)
+
+**RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models**<br>
+*Yijing Lin, Mengqi Huang, Shuhan Zhuang, Zhendong Mao*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.10406) / [Project](https://lyne1.github.io/RealGeneral/)
+
+**OminiControl2: Efficient Conditioning for Diffusion Transformers**<br>
+*Zhenxiong Tan, Qiaochu Xue, Xingyi Yang, Songhua Liu, Xinchao Wang*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.08280) / [Code](https://github.com/Yuanshi9815/OminiControl)
+
+**ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation**<br>
+*Zirun Guo, Tao Jin*<br>
+CVPR 2025. / [PDF](https://arxiv.org/abs/2503.10358)
+
+**LatexBlend: Scaling Multi-concept Customized Generation with Latent Textual Blending**<br>
+*Jian Jin, Zhenbo Yu, Yang Shen, Zhenyong Fu, Jian Yang*<br>
+CVPR 2025. / [PDF](https://arxiv.org/abs/2503.06956) / [Project](https://jinjianrick.github.io/latexblend/)
+
+**Conceptrol: Concept Control of Zero-shot Personalized Image Generation**<br>
+*Qiyuan He, Angela Yao*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.06568) / [Project](https://qy-h00.github.io/Conceptrol/) / [Code](https://github.com/QY-H00/Conceptrol)
+
 **ACCORD: Alleviating Concept Coupling through Dependence Regularization for Text-to-Image Diffusion Personalization**<br>
 *Shizhan Liu, Hao Zheng, Hang Yu, Jianguo Li*<br>
 Arxiv 2025. / [PDF](https://www.arxiv.org/abs/2503.01122)
@@ -808,13 +832,21 @@ SIGGRAPH Asia 2024.  / [PDF](https://arxiv.org/abs/2303.13495)  / [Project](http
 
 ### Multiple Concepts Generation
 
+**Piece it Together: Part-Based Concepting with IP-Priors**<br>
+*Elad Richardson, Kfir Goldberg, Yuval Alaluf, Daniel Cohen-Or*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.10365) / [Project](https://eladrich.github.io/PiT/) / [Code](https://github.com/eladrich/PiT)
+
+**DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability**<br>
+*Xirui Hu, Jiahao Wang, Hao Chen, Weizhan Zhang, Benqi Wang, Yikun Li, Haishun Nan*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.06505) 
+
 **K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**<br>
 *Ziheng Ouyang, Zhen Li, Qibin Hou*<br>
-CVPR 2025.  / [PDF](https://arxiv.org/pdf/2502.18461) / [Project](https://k-lora.github.io/K-LoRA.io/) / [Code](https://github.com/HVision-NKU/K-LoRA)
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2502.18461) / [Project](https://k-lora.github.io/K-LoRA.io/) / [Code](https://github.com/HVision-NKU/K-LoRA)
 
 **FlipConcept: Tuning-Free Multi-Concept Personalization for Text-to-Image Generation**<br>
 *Young Beom Woo, Sun Eung Kim*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2502.15203) 
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.15203) 
 
 **IP-Composer: Semantic Composition of Visual Concepts**<br>
 *Sara Dorfman, Dana Cohen-Bar, Rinon Gal, Daniel Cohen-Or*<br>
@@ -922,6 +954,14 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www
 
 ### Personalized Video Generation
 
+**DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image**<br>
+*Qi Zhao, Zhan Ma, Pan Zhou*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.10342) 
+
+**DreamRelation: Relation-Centric Video Customization**<br>
+*Yujie Wei, Shiwei Zhang, Hangjie Yuan, Biao Gong, Longxiang Tang, Xiang Wang, Haonan Qiu, Hengjia Li, Shuai Tan, Yingya Zhang, Hongming Shan*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.07602) / [Project](https://dreamrelation.github.io/) 
+
 **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation**<br>
 *Yunpeng Zhang, Qiang Wang, Fan Jiang, Yaqi Fan, Mu Xu, Yonggang Qi*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2502.13995) / [Project](https://fantasy-amap.github.io/fantasy-id/) / [Code](https://github.com/Fantasy-AMAP/fantasy-id)
@@ -1015,6 +1055,14 @@ ICCV 2023. / [PDF](https://arxiv.org/abs/2303.13508) / [Project](https://dreambo
 
 ### Text-driven Image Editing
 
+**Distilling Diversity and Control in Diffusion Models**<br>
+*Rohit Gandikota, David Bau*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.10637) / [Project](https://distillation.baulab.info/) / [Code](https://github.com/rohitgandikota/distillation)
+
+**EEdit : Rethinking the Spatial and Temporal Redundancy for Efficient Image Editing**<br>
+*Zexuan Yan, Yue Ma, Chang Zou, Wenteng Chen, Qifeng Chen, Linfeng Zhang*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.10270) / [Code](https://github.com/yuriYanZeXuan/EEdit)
+
 **Energy-Guided Optimization for Personalized Image Editing with Pretrained Text-to-Image Diffusion Models**<br>
 *Rui Jiang, Xinghe Fu, Guangcong Zheng, Teng Li, Taiping Yao, Xi Li*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.04215)
@@ -1033,7 +1081,7 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2502.04050)  / [Project](https://xill
 
 **Stable Flow: Vital Layers for Training-Free Image Editing**<br>
 *Avrahami, Omri and Patashnik, Or and Fried, Ohad and Nemchinov, Egor and Aberman, Kfir and Lischinski, Dani and Cohen-Or, Daniel.*<br>
-CVPR 2024.  / [PDF](https://arxiv.org/abs/2411.14430)  / [Project](https://omriavrahami.com/stable-flow/)
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2411.14430)  / [Project](https://omriavrahami.com/stable-flow/)
 
 **HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads**<br>
 *Xu, Yu and Tang, Fan and Cao, Juan and Zhang, Yuxin and Kong, Xiaoyu and Li, Jintao and Deussen, Oliver and Lee, Tong-Yee.*<br>
@@ -1041,7 +1089,7 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2411.15034)  / [Project](https://yuci
 
 **Unveil Inversion and Invariance in Flow Transformer for Versatile Image Editing**<br>
 *Xu, Pengcheng and Jiang, Boyuan and Hu, Xiaobin and Luo, Donghao and He, Qingdong and Zhang, Jiangning and Wang, Chengjie and Wu, Yunsheng and Ling, Charles and Wang, Boyu.*<br>
-CVPR  2024.  / [PDF](https://arxiv.org/abs/2411.15843)  / [Project](https://pengchengpcx.github.io/EditFT/)  / [Code](https://github.com/Pengchengpcx/FTEdit)
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2411.15843)  / [Project](https://pengchengpcx.github.io/EditFT/)  / [Code](https://github.com/Pengchengpcx/FTEdit)
 
 **GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**<br>
 *Dalva, Yusuf and Yesiltepe, Hidir and Yanardag, Pinar.*<br>
@@ -1080,6 +1128,10 @@ SIGGRAPH 2023.  / [PDF](https://arxiv.org/abs/2206.02779)  / [Project](https://o
 CVPR 2022.  / [PDF](https://arxiv.org/abs/2111.14818)  / [Project](https://omriavrahami.com/blended-diffusion-page/)  / [Code](https://github.com/omriav/blended-diffusion)
 
 ## Personalization with AR Models
+
+**Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation**<br>
+*Yi Wu, Lingting Zhu, Lei Liu, Wandi Qiao, Ziqiang Li, Lequan Yu, Bin Li*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2503.10125v1)
 
 **ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**<br>
 *Wang, Chunwei and Lu, Guansong and Yang, Junwei and Huang, Runhui and Han, Jianhua and Hou, Lu and Zhang, Wei and Xu, Hang.*<br>
