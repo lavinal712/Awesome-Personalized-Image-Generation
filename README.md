@@ -29,6 +29,18 @@ This repo is used for recording and tracking recent personalized image generatio
 
 ### Subject-Driven Generation
 
+**Single Image Iterative Subject-driven Generation and Editing**<br>
+*Yair Shpitzer, Gal Chechik, Idan Schwartz*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.16025) / [Project](https://siso-paper.github.io/) / [Code](https://github.com/yairshp/SISO)
+
+**TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning in Text-to-Image Models**<br>
+*Teng-Fang Hsiao, Bo-Kai Ruan, Yi-Lun Wu, Tzu-Ling Lin, Hong-Han Shuai*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.15283) / [Project](https://bluedyee.github.io/TF-TI2I_page/) / [Code](https://github.com/BlueDyee/TF-TI2I)
+
+**Personalize Anything for Free with Diffusion Transformer**<br>
+*Haoran Feng, Zehuan Huang, Lin Li, Hairong Lv, Lu Sheng*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.12590) / [Project](https://fenghora.github.io/Personalize-Anything-Page/) / [Code](https://github.com/fenghora/personalize-anything)
+
 **UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer**<br>
 *Haoxuan Wang, Jinlong Peng, Qingdong He, Hao Yang, Ying Jin, Jiafu Wu, Xiaobin Hu, Yanjie Pan, Zhenye Gan, Mingmin Chi, Bo Peng, Yabiao Wang*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.09277) / [Code](https://github.com/Xuan-World/UniCombine)
@@ -459,6 +471,14 @@ ICLR 2022.  / [PDF](https://arxiv.org/abs/2106.09685)  / [Code](https://github.c
 
 ### Face-Driven Generation
 
+**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**<br>
+*Liming Jiang, Qing Yan, Yumin Jia, Zichuan Liu, Hao Kang, Xin Lu*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16418) / [Project](https://bytedance.github.io/InfiniteYou/) / [Code](https://github.com/bytedance/InfiniteYou)
+
+**EditID: Training-Free Editable ID Customization for Text-to-Image Generation**<br>
+*Guandong Li, Zhaobin Chu*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.12526) 
+
 **PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation**<br>
 *Hu, Xinting and Wang, Haoran and Lenssen, Jan Eric and Schiele, Bernt.*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2501.05823)  / [Code](https://github.com/JoyHuYY1412/PersonaHOI)
@@ -673,6 +693,10 @@ ICLR 2024.  / [PDF](https://arxiv.org/abs/2306.08247)  / [Project](https://wangr
 Arxiv 2023.  / [PDF](https://arxiv.org/abs/2305.10431)  / [Project](https://hanlab.mit.edu/projects/fastcomposer)  / [Code](https://github.com/mit-han-lab/fastcomposer)
 
 ### Character-Driven Generation
+
+**Visual Persona: Foundation Model for Full-Body Human Customization**<br>
+*Jisu Nam, Soowon Son, Zhan Xu, Jing Shi, Difan Liu, Feng Liu, Aashish Misraa, Seungryong Kim, Yang Zhou*<br>
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2503.15406)  / [Project](https://cvlab-kaist.github.io/Visual-Persona/) / [Code](https://github.com/cvlab-kaist/Visual-Persona)
 
 **AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation**<br>
 *He, Junjie and Tuo, Yuxiang and Chen, Binghui and Zhong, Chongyang and Geng, Yifeng and Bo, Liefeng.*<br>
@@ -954,6 +978,14 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www
 
 ### Personalized Video Generation
 
+**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**<br>
+*Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.14151) / [Project](https://ml-gsai.github.io/Concat-ID-demo/) / [Code](https://github.com/ML-GSAI/Concat-ID)
+
+**MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization**<br>
+*Hengjia Li, Lifan Jiang, Xi Xiao, Tianyang Wang, Hongwei Yi, Boxi Wu, Deng Cai*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.12689) / [Project](https://echopluto.github.io/MagicID-project/) / [Code](https://github.com/EchoPluto/MagicID)
+
 **DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image**<br>
 *Qi Zhao, Zhan Ma, Pan Zhou*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.10342) 
@@ -1052,8 +1084,19 @@ Arxiv 2023. / [PDF](https://arxiv.org/abs/2309.03599)
 *Amit Raj, Srinivas Kaza, Ben Poole, Michael Niemeyer, Nataniel Ruiz, Ben Mildenhall, Shiran Zada, Kfir Aberman, Michael Rubinstein, Jonathan Barron, Yuanzhen Li, Varun Jampani*<br>
 ICCV 2023. / [PDF](https://arxiv.org/abs/2303.13508) / [Project](https://dreambooth3d.github.io/) 
 
-
 ### Text-driven Image Editing
+
+**FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**<br>
+*Tianyi Wei, Yifan Zhou, Dongdong Chen, Xingang Pan*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16153) / [Project](https://wtybest.github.io/projects/FreeFlux/) / [Code](https://github.com/wtybest/FreeFlux)
+
+**BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing**<br>
+*Yaowei Li, Lingen Li, Zhaoyang Zhang, Xiaoyu Li, Guangzhi Wang, Hongxiang Li, Xiaodong Cun, Ying Shan, Yuexian Zou*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.13434) / [Project](https://liyaowei-stu.github.io/project/BlobCtrl/) / [Code](https://github.com/TencentARC/BlobCtrl)
+
+**Edit Transfer: Learning Image Editing via Vision In-Context Relations**<br>
+*Lan Chen, Qi Mao, Yuchao Gu, Mike Zheng Shou*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.13327) / [Project](https://cuc-mipg.github.io/EditTransfer.github.io/) / [Code](https://github.com/CUC-MIPG/Edit-Transfer)
 
 **Distilling Diversity and Control in Diffusion Models**<br>
 *Rohit Gandikota, David Bau*<br>
