@@ -61,6 +61,10 @@ CVPR 2025. / [PDF](https://arxiv.org/abs/2503.10358)
 *Jian Jin, Zhenbo Yu, Yang Shen, Zhenyong Fu, Jian Yang*<br>
 CVPR 2025. / [PDF](https://arxiv.org/abs/2503.06956) / [Project](https://jinjianrick.github.io/latexblend/)
 
+**Towards More Accurate Personalized Image Generation: Addressing Overfitting and Evaluation Bias**<br>
+*Mingxiao Li, Tingyu Qu, Tinne Tuytelaars, Marie-Francine Moens*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.06632) / [Code](https://github.com/Mingxiao-Li/Towards-More-Accurate-Personalized-Image-Generation)
+
 **Conceptrol: Concept Control of Zero-shot Personalized Image Generation**<br>
 *Qiyuan He, Angela Yao*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.06568) / [Project](https://qy-h00.github.io/Conceptrol/) / [Code](https://github.com/QY-H00/Conceptrol)
@@ -471,6 +475,11 @@ ICLR 2022.  / [PDF](https://arxiv.org/abs/2106.09685)  / [Code](https://github.c
 
 ### Face-Driven Generation
 
+**HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis**<br>
+*Mengtian Li, Jinshu Chen, Wanquan Feng, Bingchuan Li, Fei Dai, Songtao Zhao, Qian He*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16944) 
+
+
 **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**<br>
 *Liming Jiang, Qing Yan, Yumin Jia, Zichuan Liu, Hao Kang, Xin Lu*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16418) / [Project](https://bytedance.github.io/InfiniteYou/) / [Code](https://github.com/bytedance/InfiniteYou)
@@ -478,6 +487,10 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16418) / [Project](https://byted
 **EditID: Training-Free Editable ID Customization for Text-to-Image Generation**<br>
 *Guandong Li, Zhaobin Chu*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.12526) 
+
+**FaceID-6M: A Large-Scale, Open-Source FaceID Customization Dataset**<br>
+*Shuhe Wang, Xiaoya Li, Jiwei Li, Guoyin Wang, Xiaofei Sun, Bob Zhu, Han Qiu, Mo Yu, Shengjie Shen, Tianwei Zhang, Eduard Hovy*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.07091)  / [Code](https://github.com/ShuheSH/FaceID-6M)
 
 **PersonaHOI: Effortlessly Improving Personalized Face with Human-Object Interaction Generation**<br>
 *Hu, Xinting and Wang, Haoran and Lenssen, Jan Eric and Schiele, Bernt.*<br>
@@ -856,6 +869,14 @@ SIGGRAPH Asia 2024.  / [PDF](https://arxiv.org/abs/2303.13495)  / [Project](http
 
 ### Multiple Concepts Generation
 
+**ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**<br>
+*Fernando Julio Cendra, Kai Han*<br>
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2503.19902) / [Project](https://visual-ai.github.io/ice)
+
+**DynASyn: Multi-Subject Personalization Enabling Dynamic Action Synthesi**<br>
+*Yongjin Choi, Chanhun Park, Seung Jun Baek*<br>
+AAAI 2025.  / [PDF](https://arxiv.org/abs/2503.17728) 
+
 **Piece it Together: Part-Based Concepting with IP-Priors**<br>
 *Elad Richardson, Kfir Goldberg, Yuval Alaluf, Daniel Cohen-Or*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.10365) / [Project](https://eladrich.github.io/PiT/) / [Code](https://github.com/eladrich/PiT)
@@ -977,6 +998,14 @@ NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2305.18292)  / [Code](https://githu
 CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www.cs.cmu.edu/~custom-diffusion)  / [Code](https://github.com/adobe-research/custom-diffusion)
 
 ### Personalized Video Generation
+
+**VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**<br>
+*Chi-Pin Huang, Yen-Siang Wu, Hung-Kai Chung, Kai-Po Chang, Fu-En Yang, Yu-Chiang Frank Wang*<br>
+CVPR 2025. / [PDF](https://arxiv.org/abs/2503.21781) / [Project](https://jasper0314-huang.github.io/videomage-customization/)
+
+**FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**<br>
+*Xuan Ju, Weicai Ye, Quande Liu, Qiulin Wang, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Qiang Xu*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.19907) / [Project](https://fulldit.github.io/)
 
 **Concat-ID: Towards Universal Identity-Preserving Video Synthesis**<br>
 *Yong Zhong, Zhuoyi Yang, Jiayan Teng, Xiaotao Gu, Chongxuan Li*<br>
