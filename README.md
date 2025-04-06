@@ -475,10 +475,21 @@ ICLR 2022.  / [PDF](https://arxiv.org/abs/2106.09685)  / [Code](https://github.c
 
 ### Face-Driven Generation
 
+**SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**<br>
+*Xiaole Xian, Zhichao Liao, Qingyu Li, Wenyu Qin, Pengfei Wan, Weicheng Xie, Long Zeng, Linlin Shen, Pingfa Feng*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.00396) / [Project](https://tgre3w2.github.io/SPF-Protrait/)
+
+**Consistent Subject Generation via Contrastive Instantiated Concepts**<br>
+*Lee Hsin-Ying, Kelvin C.K. Chan, Ming-Hsuan Yang*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.24387) / [Project](https://contrastive-concept-instantiation.github.io/) / [Code](https://github.com/contrastive-concept-instantiation/cocoins)
+
+**Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization**<br>
+*Barış Batuhan Topal, Umut Özyurt, Zafer Doğan Budak, Ramazan Gokberk Cinbis*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.22352) 
+
 **HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis**<br>
 *Mengtian Li, Jinshu Chen, Wanquan Feng, Bingchuan Li, Fei Dai, Songtao Zhao, Qian He*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16944) 
-
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16944)
 
 **InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**<br>
 *Liming Jiang, Qing Yan, Yumin Jia, Zichuan Liu, Hao Kang, Xin Lu*<br>
@@ -599,7 +610,6 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2404.15449)  / [Project](https://idal
 **CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models**<br>
 *Qinghe Wang, Baolu Li, Xiaomin Li, Bing Cao, Liqian Ma, Huchuan Lu, Xu Jia*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2404.15677)  / [Project](https://qinghew.github.io/CharacterFactory/)  / [Code](https://github.com/qinghew/CharacterFactory)
-
 
 **Consistentid: Portrait generation with multimodal fine-grained identity preserving**<br>
 *Huang, Jiehui and Dong, Xiao and Song, Wenhui and Li, Hanhui and Zhou, Jun and Cheng, Yuhao and Liao, Shutao and Chen, Long and Yan, Yiqiang and Liao, Shengcai and {others}.*<br>
@@ -760,6 +770,10 @@ WACV 2024.  / [PDF](https://arxiv.org/abs/2211.10950v1)  / [Code](https://github
 SIGGRPAH 2024.  / [PDF](https://arxiv.org/abs/2311.10093)  / [Project](https://omriavrahami.com/the-chosen-one/)  / [Code](https://github.com/ZichengDuan/TheChosenOne)
 
 ### Style-Driven Generation
+
+**AC-LoRA: Auto Component LoRA for Personalized Artistic Style Image Generation**<br>
+*Zhipu Cui, Andong Tian, Zhi Ying, Jialiang Lu*<br>
+ICCGV 2025.  / [PDF](https://arxiv.org/abs/2504.02231)  
 
 **UnZipLoRA: Separating Content and Style from a Single Image**<br>
 *Liu, Chang and Shah, Viraj and Cui, Aiyu and Lazebnik, Svetlana.*<br>
@@ -999,6 +1013,14 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www
 
 ### Personalized Video Generation
 
+**JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation**<br>
+*Fangda Chen, Shanshan Zhao, Chuanfu Xu, Long Lan*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.23951) / [Project](https://fdchen24.github.io/JointTuner-Website/) 
+
+**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**<br>
+*Shengqiong Wu, Weicai Ye, Jiahao Wang, Quande Liu, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Shuicheng Yan, Hao Fei, Tat-Seng Chua*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.24379) / [Project](https://sqwu.top/Any2Cap/) / [Code](https://github.com/ChocoWu/Any2Caption)
+
 **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models**<br>
 *Chi-Pin Huang, Yen-Siang Wu, Hung-Kai Chung, Kai-Po Chang, Fu-En Yang, Yu-Chiang Frank Wang*<br>
 CVPR 2025. / [PDF](https://arxiv.org/abs/2503.21781) / [Project](https://jasper0314-huang.github.io/videomage-customization/)
@@ -1201,9 +1223,13 @@ CVPR 2022.  / [PDF](https://arxiv.org/abs/2111.14818)  / [Project](https://omria
 
 ## Personalization with AR Models
 
+**Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation**<br>
+*Jiwoo Chung, Sangeek Hyun, Hyunjun Kim, Eunseo Koh, MinKyu Lee, Jae-Pil Heo*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.02612)
+
 **Proxy-Tuning: Tailoring Multimodal Autoregressive Models for Subject-Driven Image Generation**<br>
 *Yi Wu, Lingting Zhu, Lei Liu, Wandi Qiao, Ziqiang Li, Lequan Yu, Bin Li*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2503.10125v1)
+Arxiv 2025.  / [PDF](https://arxiv.org/pdf/2503.10125) / [Code](https://github.com/jiwoogit/ARBooth)
 
 **ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**<br>
 *Wang, Chunwei and Lu, Guansong and Yang, Junwei and Huang, Runhui and Han, Jianhua and Hou, Lu and Zhang, Wei and Xu, Hang.*<br>
