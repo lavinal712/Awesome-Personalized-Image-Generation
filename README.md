@@ -29,6 +29,26 @@ This repo is used for recording and tracking recent personalized image generatio
 
 ### Subject-Driven Generation
 
+**Flux Already Knows - Activating Subject-Driven Image Generation without Training**<br>
+*Hao Kang, Stathi Fotiadis, Liming Jiang, Qing Yan, Yumin Jia, Zichuan Liu, Min Jin Chong, Xin Lu*<>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.11478) / [Code](http://github.com/bytedance/LatentUnfold) 
+
+**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**<br>
+*Zhong-Yu Li, Ruoyi Du, Juncheng Yan, Le Zhuo, Zhen Li, Peng Gao, Zhanyu Ma, Ming-Ming Cheng*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.07960) / [Project](https://visualcloze.github.io/) / [Code](https://github.com/lzyhha/VisualCloze)
+
+**FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation**<br>
+*Linyan Huang, Haonan Lin, Yanning Zhou, Kaiwen Xiao*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.07405) / [Project](https://flexip-tech.github.io/flexip/#/) / [Code](https://github.com/yairshp/SISO)
+
+**Transfer between Modalities with MetaQueries**<br>
+*Xichen Pan, Satya Narayan Shukla, Aashu Singh, Zhuokai Zhao, Shlok Kumar Mishra, Jialiang Wang, Zhiyang Xu, Jiuhai Chen, Kunpeng Li, Felix Juefei-Xu, Ji Hou, Saining Xie*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.06256) / [Project](https://xichenpan.com/metaquery/) 
+
+**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**<br>
+*Kavana Venkatesh, Connor Dunlop, Pinar Yanardag*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.05306) / [Project](https://crea-diffusion.github.io/) 
+
 **Single Image Iterative Subject-driven Generation and Editing**<br>
 *Yair Shpitzer, Gal Chechik, Idan Schwartz*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2503.16025) / [Project](https://siso-paper.github.io/) / [Code](https://github.com/yairshp/SISO)
@@ -475,6 +495,10 @@ ICLR 2022.  / [PDF](https://arxiv.org/abs/2106.09685)  / [Code](https://github.c
 
 ### Face-Driven Generation
 
+**ID-Booth: Identity-consistent Face Generation with Diffusion Models**<br>
+*Darian Tomašević, Fadi Boutros, Chenhao Lin, Naser Damer, Vitomir Štruc, Peter Peer*<br>
+FG 2025.  / [PDF](https://arxiv.org/abs/2504.07392) / [Code](https://github.com/dariant/ID-Booth)
+
 **SPF-Portrait: Towards Pure Portrait Customization with Semantic Pollution-Free Fine-tuning**<br>
 *Xiaole Xian, Zhichao Liao, Qingyu Li, Wenyu Qin, Pengfei Wan, Weicheng Xie, Long Zeng, Linlin Shen, Pingfa Feng*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.00396) / [Project](https://tgre3w2.github.io/SPF-Protrait/)
@@ -717,6 +741,10 @@ Arxiv 2023.  / [PDF](https://arxiv.org/abs/2305.10431)  / [Project](https://hanl
 
 ### Character-Driven Generation
 
+**InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework**<br>
+*Jiale Tao, Yanbing Zhang, Qixun Wang, Yiji Cheng, Haofan Wang, Xu Bai, Zhengguang Zhou, Ruihuang Li, Linqing Wang, Chunyu Wang, Qin Lin, Qinglin Lu*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.12395)  / [Project](https://instantcharacter.github.io/) / [Code](https://github.com/Tencent/InstantCharacter)
+
 **Visual Persona: Foundation Model for Full-Body Human Customization**<br>
 *Jisu Nam, Soowon Son, Zhan Xu, Jing Shi, Difan Liu, Feng Liu, Aashish Misraa, Seungryong Kim, Yang Zhou*<br>
 CVPR 2025.  / [PDF](https://arxiv.org/abs/2503.15406)  / [Project](https://cvlab-kaist.github.io/Visual-Persona/) / [Code](https://github.com/cvlab-kaist/Visual-Persona)
@@ -882,6 +910,18 @@ CVPR 2024.  / [PDF](https://arxiv.org/abs/2311.15841v5)  / [Project](https://adi
 SIGGRAPH Asia 2024.  / [PDF](https://arxiv.org/abs/2303.13495)  / [Project](https://ziqihuangg.github.io/projects/reversion.html)  / [Code](https://github.com/ziqihuangg/ReVersion)
 
 ### Multiple Concepts Generation
+
+**Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**<br>
+*Jaskirat Singh, Junshen Kevin Chen, Jonas Kohler, Michael Cohen*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.05800)
+
+**FaR: Enhancing Multi-Concept Text-to-Image Diffusion via Concept Fusion and Localized Refinement**<br>
+*Gia-Nghia Tran, Quang-Huy Che, Trong-Tai Dam Vu, Bich-Nga Pham, Vinh-Tiep Nguyen, Trung-Nghia Le, Minh-Triet Tran*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.03292) 
+
+**Less-to-More Generalization: Unlocking More Controllability by In-Context Generation**<br>
+*Shaojin Wu, Mengqi Huang, Wenxu Wu, Yufeng Cheng, Fei Ding, Qian He*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.02160) / [Project](https://bytedance.github.io/UNO/) / [Code](https://github.com/bytedance/UNO)
 
 **ICE: Intrinsic Concept Extraction from a Single Image via Diffusion Models**<br>
 *Fernando Julio Cendra, Kai Han*<br>
@@ -1137,6 +1177,10 @@ ICCV 2023. / [PDF](https://arxiv.org/abs/2303.13508) / [Project](https://dreambo
 
 ### Text-driven Image Editing
 
+**UniEdit-Flow: Unleashing Inversion and Editing in the Era of Flow Models**<br>
+*Guanlong Jiao, Biqing Huang, Kuan-Chieh Wang, Renjie Liao*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.13109) / [Project](https://uniedit-flow.github.io/) 
+
 **FreeFlux: Understanding and Exploiting Layer-Specific Roles in RoPE-Based MMDiT for Versatile Image Editing**<br>
 *Tianyi Wei, Yifan Zhou, Dongdong Chen, Xingang Pan*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2503.16153) / [Project](https://wtybest.github.io/projects/FreeFlux/) / [Code](https://github.com/wtybest/FreeFlux)
@@ -1222,6 +1266,10 @@ SIGGRAPH 2023.  / [PDF](https://arxiv.org/abs/2206.02779)  / [Project](https://o
 CVPR 2022.  / [PDF](https://arxiv.org/abs/2111.14818)  / [Project](https://omriavrahami.com/blended-diffusion-page/)  / [Code](https://github.com/omriav/blended-diffusion)
 
 ## Personalization with AR Models
+
+**Personalized Text-to-Image Generation with Auto-Regressive Models**<br>
+*Kaiyue Sun, Xian Liu, Yao Teng, Xihui Liu*<br>
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.13162) / [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
 
 **Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation**<br>
 *Jiwoo Chung, Sangeek Hyun, Hyunjun Kim, Eunseo Koh, MinKyu Lee, Jae-Pil Heo*<br>
