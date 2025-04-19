@@ -30,7 +30,7 @@ This repo is used for recording and tracking recent personalized image generatio
 ### Subject-Driven Generation
 
 **Flux Already Knows - Activating Subject-Driven Image Generation without Training**<br>
-*Hao Kang, Stathi Fotiadis, Liming Jiang, Qing Yan, Yumin Jia, Zichuan Liu, Min Jin Chong, Xin Lu*<>
+*Hao Kang, Stathi Fotiadis, Liming Jiang, Qing Yan, Yumin Jia, Zichuan Liu, Min Jin Chong, Xin Lu*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2504.11478) / [Code](http://github.com/bytedance/LatentUnfold) 
 
 **VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**<br>
