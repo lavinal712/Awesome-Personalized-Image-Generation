@@ -941,11 +941,11 @@ SIGGRAPH Asia 2024.  / [PDF](https://arxiv.org/abs/2303.13495)  / [Project](http
 
 **MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**<br>
 *Zinan Guo, Pengze Zhang, Yanze Wu, Chong Mou, Songtao Zhao, Qian He*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2505.02823) / [Code]([https://github.com/bytedance/UNO](https://github.com/guozinan126/MUSAR)) / [Dataset](https://huggingface.co/datasets/guozinan/MUSAR-Gen)
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2505.02823) / [Code](https://github.com/guozinan126/MUSAR) / [Dataset](https://huggingface.co/datasets/guozinan/MUSAR-Gen)
 
 **DreamO: A Unified Framework for Image Customization**<br>
 *Chong Mou, Yanze Wu, Wenxu Wu, Zinan Guo, Pengze Zhang, Yufeng Cheng, Yiming Luo, Fei Ding, Shiwen Zhang, Xinghui Li, Mengtian Li, Mingcong Liu, Yi Zhang, Shaojin Wu, Songtao Zhao, Jian Zhang, Qian He, Xinglong Wu*<br>
-Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.16915) / [Code]([https://github.com/guozinan126/MUSAR](https://github.com/bytedance/DreamO))
+Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.16915) / [Code](https://github.com/bytedance/DreamO)
 
 **Storybooth: Training-free Multi-Subject Consistency for Improved Visual Storytelling**<br>
 *Jaskirat Singh, Junshen Kevin Chen, Jonas Kohler, Michael Cohen*<br>
