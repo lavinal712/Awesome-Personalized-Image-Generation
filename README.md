@@ -29,6 +29,10 @@ This repo is used for recording and tracking recent personalized image generatio
 
 ### Subject-Driven Generation
 
+**MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models**<br>
+*Hang Hua, Ziyun Zeng, Yizhi Song, Yunlong Tang, Liu He, Daniel Aliaga, Wei Xiong, Jiebo Luo*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/pdf/2505.19415) / [Project](https://github.com/hanghuacs/MMIG-Bench) / [Code](https://github.com/hanghuacs/MMIG-Bench)
+
 **Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**<br>
 *Donghoon Kim, Minji Bae, Kyuhong Shim, Byonghyo Shim*<br>
 ICLR 2025. / [PDF](https://arxiv.org/abs/2505.08622) 
@@ -506,6 +510,10 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2208.12242v2)  / [Project](https://dre
 ICLR 2022.  / [PDF](https://arxiv.org/abs/2106.09685)  / [Code](https://github.com/microsoft/LoRA)
 
 ### Face-Driven Generation
+
+**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**<br>
+*Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan*<br>
+CVPR 2025 (Highlight).  /  [PDF](https://arxiv.org/abs/2411.17440) / [Project](https://pku-yuangroup.github.io/ConsisID/) / [Code](https://github.com/PKU-YuanGroup/ConsisID)
 
 **PIDiff: Image Customization for Personalized Identities with Diffusion Models**<br>
 *Jinyu Gu, Haipeng Liu, Meng Wang, Yang Wang*<br>
@@ -1088,6 +1096,14 @@ NeurIPS 2023.  / [PDF](https://arxiv.org/abs/2305.18292)  / [Code](https://githu
 CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www.cs.cmu.edu/~custom-diffusion)  / [Code](https://github.com/adobe-research/custom-diffusion)
 
 ### Personalized Video Generation
+
+**OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation**<br>
+*Shenghai Yuan, Xianyi He, Yufan Deng, Yang Ye, Jinfa Huang, Bin Lin, Jiebo Luo, Li Yuan*<br>
+Arxiv 2025.  /  [PDF](https://arxiv.org/abs/2505.20292) / [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus/) / [Code](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
+
+**Identity-Preserving Text-to-Video Generation by Frequency Decomposition**<br>
+*Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan*<br>
+CVPR 2025 (Highlight).  /  [PDF](https://arxiv.org/abs/2411.17440) / [Project](https://pku-yuangroup.github.io/ConsisID/) / [Code](https://github.com/PKU-YuanGroup/ConsisID)
 
 **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation**<br>
 *Panwen Hu, Jiehui Huang, Qiang Sun, Xiaodan Liang*<br>
