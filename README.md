@@ -157,6 +157,10 @@ Arxiv 2024.  / [PDF](https://arxiv.org/abs/2411.15098)  / [Code](https://github.
 *Le, Duong H. and Pham, Tuan and Lee, Sangho and Clark, Christopher and Kembhavi, Aniruddha and Mandt, Stephan and Krishna, Ranjay and Lu, Jiasen.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2411.16318v1)  / [Project](https://lehduong.github.io/OneDiffusion-homepage/)  / [Code](https://github.com/lehduong/OneDiffusion)
 
+**Qwen2VL-Flux: Unifying Image and Text Guidance for Controllable Image Generation**<br>
+*Pengqi Lu*<br>
+GitHub 2024.  / [PDF](https://github.com/erwold/qwen2vl-flux/blob/main/technical-report.pdf) / [Code](https://github.com/erwold/qwen2vl-flux)
+
 **Cusconcept: Customized visual concept decomposition with diffusion models**<br>
 *Xu, Zhi and Hao, Shaozhe and Han, Kai.*<br>
 WACV 2025.  / [PDF](https://arxiv.org/abs/2410.00398)  / [Code](https://github.com/xzLcan/CusConcept)
