@@ -29,6 +29,10 @@ This repo is used for recording and tracking recent personalized image generatio
 
 ### Subject-Driven Generation
 
+**OmniGen2: Exploration to Advanced Multimodal Generation**<br>
+*Chenyuan Wu, Pengfei Zheng, Ruiran Yan, Shitao Xiao, Xin Luo, Yueze Wang, Wanli Li, Xiyan Jiang, Yexin Liu, Junjie Zhou, Ze Liu, Ziyi Xia, Chaofan Li, Haoge Deng, Jiahao Wang, Kun Luo, Bo Zhang, Defu Lian, Xinlong Wang, Zhongyuan Wang, Tiejun Huang, Zheng Liu*<br>
+Arxiv 2025. / [PDF](https://arxiv.org/abs/2506.18871) / [Project](https://vectorspacelab.github.io/OmniGen2) / [Code](https://github.com/VectorSpaceLab/OmniGen2)
+
 **MMIG-Bench: Towards Comprehensive and Explainable Evaluation of Multi-Modal Image Generation Models**<br>
 *Hang Hua, Ziyun Zeng, Yizhi Song, Yunlong Tang, Liu He, Daniel Aliaga, Wei Xiong, Jiebo Luo*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/pdf/2505.19415) / [Project](https://github.com/hanghuacs/MMIG-Bench) / [Code](https://github.com/hanghuacs/MMIG-Bench)
