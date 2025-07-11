@@ -129,6 +129,10 @@ Arxiv 2025.  / [PDF](https://arxiv.org/abs/2501.01407)  / [Project](https://snap
 *Li, Xinghui and Sun, Qichao and Zhang, Pengze and Ye, Fulong and Liao, Zhichao and Feng, Wanquan and Zhao, Songtao and He, Qian.*<br>
 CVPR 2025.  / [PDF](https://arxiv.org/abs/2412.04146)  / [Project](https://crayon-shinchan.github.io/AnyDressing/)  / [Code](https://github.com/Crayon-Shinchan/AnyDressing)
 
+**LoRACLR: Contrastive Adaptation for Customization of Diffusion Models**<br>
+*Enis Simsar, Thomas Hofmann, Federico Tombari, Pinar Yanardag*<br>
+CVPR 2025.  / [PDF](https://arxiv.org/abs/2412.09622)  / [Project](https://loraclr.github.io/)
+
 **Customized Generation Reimagined: Fidelity and Editability Harmonized**<br>
 *Jin, Jian and Shen, Yang and Fu, Zhenyong and Yang, Jian.*<br>
 ECCV 2024.  / [PDF](https://arxiv.org/abs/2412.04831v1)  / [Code](https://github.com/jinjianRick/DCI_ICO)
