@@ -24,10 +24,121 @@ This repo is used for recording and tracking recent personalized image generatio
   - [Latent Editing](#Latent-Editing)
 - [Related Surveys](#Related-Surveys)
 
-
 ## Personalization with Diffusion Models
 
 ### Subject-Driven Generation
+
+**PaCo-RL: Advancing Reinforcement Learning for Consistent Image Generation with Pairwise Reward Modeling**<br>
+*Bowen Ping, Chengyou Jia, Minnan Luo, Changliang Xia, Xin Shen, Zhuohang Dang, Hangwei Qian*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2512.04784) / [Project](https://x-gengroup.github.io/HomePage_PaCo-RL/) / [Code](https://github.com/X-GenGroup/PaCo-RL)
+
+**MINDiff: Mask-Integrated Negative Attention for Controlling Overfitting in Text-to-Image Personalization**<br>
+*Seulgi Jeong, Jaeil Kim*<br>
+ICCV 2025W.  / [PDF](http://arxiv.org/abs/2511.17888) / [Code](https://github.com/seuleepy/MINDiff)
+
+**Infinite-Story: A Training-Free Consistent Text-to-Image Generation**<br>
+*Jihun Park, Kyoungmin Lee, Jongmin Gim, Hyeonseo Jo, Minseok Oh, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Minwoo Choi, Sunghoon Im*<br>
+AAAI 2026.  / [PDF](http://arxiv.org/abs/2511.13002)
+
+**EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization**<br>
+*Yixiong Yang, Tao Wu, Senmao Li, Shiqi Yang, Yaxing Wang, Joost Weijer, Kai Wang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.20512) / [Project](https://liulisixin.github.io/EchoDistill-page/)
+
+**From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation**<br>
+*Ziwei Huang, Ying Shu, Hao Fang, Quanyu Long, Wenya Wang, Qiushi Guo, Tiezheng Ge, Leilei Gan*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.18263)
+
+**UniFusion: Vision-Language Model as Unified Encoder in Image Generation**<br>
+*Kevin Li, Manuel Brack, Sudeep Katakol, Hareesh Ravi, Ajinkya Kale*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.12789) / [Project](https://thekevinli.github.io/unifusion/)
+
+**ReMix: Towards a Unified View of Consistent Character Generation and Editing**<br>
+*Benjia Zhou, Bin Fu, Pei Cheng, Yanru Wang, Jiayuan Fan, Tao Chen*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.10156)
+
+**IC-Custom: Diverse Image Customization via In-Context Learning**<br>
+*Yaowei Li, Xiaoyu Li, Zhaoyang Zhang, Yuxuan Bian, Gan Liu, Xinyuan Li, Jiale Xu, Wenbo Hu, Yating Liu, Lingen Li, Jing Cai, Yuexian Zou, Yancheng He, Ying Shan*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.01926) / [Project](https://liyaowei-stu.github.io/project/IC_Custom/) / [Code](https://github.com/TencentARC/IC-Custom)
+
+**TIDE: Achieving Balanced Subject-Driven Image Generation via Target-Instructed Diffusion Enhancement**<br>
+*Jibai Lin, Bo Ma, Yating Yang, Xi Zhou, Rong Ma, Turghun Osman, Ahtamjan Ahmat, Rui Dong, Lei Wang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.06499) / [Code](https://github.com/KomJay520/TIDE)
+
+**Memory-Efficient Personalization of Text-to-Image Diffusion Models via Selective Optimization Strategies**<br>
+*Seokeon Choi, Sunghyun Park, Hyoungwoo Park, Jeongho Kim, Sungrack Yun*<br>
+ICCV 2025 LIMIT Workshop.  / [PDF](http://arxiv.org/abs/2507.10029)
+
+**MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation**<br>
+*Qian Liang, Yujia Wu, Kuncheng Li, Jiwei Wei, Shiyuan He, Jinyu Guo, Ning Xie*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.11433)
+
+**Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation**<br>
+*Junyan Ye, Dongzhi Jiang, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, Jinghua Yu, Hongsheng Li, Conghui He, Weijia Li*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.09987) / [Code](https://github.com/yejy53/Echo-4o) / [Dataset](https://huggingface.co/datasets/Yejy53/Echo-4o-Image)
+
+**Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation**<br>
+*Ao Ma, Jiasong Feng, Ke Cao, Jing Wang, Yun Wang, Quanwei Zhang, Zhanjie Zhang*<br>
+ICCV 2025.  / [PDF](http://arxiv.org/abs/2508.08949)
+
+**Steering Guidance for Personalized Text-to-Image Diffusion Models**<br>
+*Sunghyun Park, Seokeon Choi, Hyoungwoo Park, Sungrack Yun*<br>
+ICCV 2025.  / [PDF](http://arxiv.org/abs/2508.00319)
+
+**HOComp: Interaction-Aware Human-Object Composition**<br>
+*Dong Liang, Jinyuan Jia, Yuhao Liu, Rynson W. H. Lau*<br>
+NeurIPS 2025.  / [PDF](http://arxiv.org/abs/2507.16813) / [Project](https://dliang293.github.io/HOComp-project/) / [Code](https://github.com/dliang293/HOComp)
+
+**Improving Personalized Image Generation through Social Context Feedback**<br>
+*Parul Gupta, Abhinav Dhall, Thanh-Toan Do*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.16095)
+
+**FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers**<br>
+*Yanbing Zhang, Zhe Wang, Qin Zhou, Mengping Yang*<br>
+ICCV 2025.  / [PDF](http://arxiv.org/abs/2507.15249) / [Code](https://github.com/Monalissaa/FreeCus)
+
+**T-LoRA: Single Image Diffusion Model Customization Without Overfitting**<br>
+*Vera Soboleva, Aibek Alanov, Andrey Kuznetsov, Konstantin Sobolev*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.05964) / [Code](https://github.com/ControlGenAI/T-LoRA)
+
+**APT: Adaptive Personalized Training for Diffusion Models with Limited Data**<br>
+*JungWoo Chae, Jiyoon Kim, JaeWoong Choi, Kyungyul Kim, Sangheum Hwang*<br>
+CVPR 2025.  / [PDF](http://arxiv.org/abs/2507.02687) / [Project](https://lgcnsai.github.io/apt/)
+
+**Noise Consistency Regularization for Improved Subject-Driven Image Synthesis**<br>
+*Yao Ni, Song Wen, Piotr Koniusz, Anoop Cherian*<br>
+CVPR 2025W.  / [PDF](http://arxiv.org/abs/2506.06483)
+
+**Parallel Rescaling: Rebalancing Consistency Guidance for Personalized Diffusion Models**<br>
+*JungWoo Chae, Jiyoon Kim, Sangheum Hwang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.00607)
+
+**Dimension-Reduction Attack! Video Generative Models are Experts on Controllable Image Synthesis**<br>
+*Hengyuan Cao, Yutong Feng, Biao Gong, Yijing Tian, Yunhong Lu, Chuang Liu, Bin Wang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.23325) / [Project](https://dra-ctrl-2025.github.io/DRA-Ctrl/) / [Code](https://github.com/Kunbyte-AI/DRA-Ctrl)
+
+**Identity-Preserving Text-to-Image Generation via Dual-Level Feature Decoupling and Expert-Guided Fusion**<br>
+*Kewen Chen, Xiaobin Hu, Wenqi Ren*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.22360)
+
+**AlignGen: Boosting Personalized Image Generation with Cross-Modality Prior Alignment**<br>
+*Yiheng Lin, Shifang Zhao, Ting Liu, Xiaochao Qu, Luoqi Liu, Yao Zhao, Yunchao Wei*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.21911)
+
+**DreamBoothDPO: Improving Personalized Generation using Direct Preference Optimization**<br>
+*Shamil Ayupov, Maksim Nakhodnov, Anastasia Yaschenko, Andrey Kuznetsov, Aibek Alanov*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.20975) / [Code](https://github.com/ControlGenAI/DreamBoothDPO)
+
+**Geometry-Editable and Appearance-Preserving Object Compositon**<br>
+*Jianman Lin, Haojie Li, Chunmei Qing, Zhijing Yang, Liang Lin, Tianshui Chen*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.20914)
+
+**Regularized Personalization of Text-to-Image Diffusion Models without Distributional Drift**<br>
+*Gihoon Kim, Hyungjin Park, Taesup Kim*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.19519)
+
+**In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation**<br>
+*Yu Xu, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.20271)
 
 **OmniGen2: Exploration to Advanced Multimodal Generation**<br>
 *Chenyuan Wu, Pengfei Zheng, Ruiran Yan, Shitao Xiao, Xin Luo, Yueze Wang, Wanli Li, Xiyan Jiang, Yexin Liu, Junjie Zhou, Ze Liu, Ziyi Xia, Chaofan Li, Haoge Deng, Jiahao Wang, Kun Luo, Bo Zhang, Defu Lian, Xinlong Wang, Zhongyuan Wang, Tiejun Huang, Zheng Liu*<br>
@@ -523,6 +634,66 @@ ICLR 2022.  / [PDF](https://arxiv.org/abs/2106.09685)  / [Code](https://github.c
 
 ### Face-Driven Generation
 
+**Training for Identity, Inference for Controllability: A Unified Approach to Tuning-Free Face Personalization**<br>
+*Lianyu Pang, Ji Zhou, Qiping Wang, Baoquan Zhao, Zhenguo Yang, Qing Li, Xudong Mao*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2512.03964) / [Code](https://github.com/lyuPang/UniID)
+
+**Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation**<br>
+*Shubhankar Borse, Phuc Pham, Farzad Farhadzadeh, Seokeon Choi, Phong Ha Nguyen, Anh Tuan Tran, Sungrack Yun, Munawar Hayat, Fatih Porikli*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.22690)
+
+**A Training-Free Approach for Multi-ID Customization via Attention Adjustment and Spatial Control**<br>
+*Jiawei Lin, Guanlong Jiao, Jianjin Xu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.20401)
+
+**BeyondFacial: Identity-Preserving Personalized Generation Beyond Facial Close-ups**<br>
+*Songsong Zhang, Chuanqi Tang, Hongguang Zhang, Guijian Tang, Minglong Li, Xueqiong Li, Shaowu Yang, Yuanxi Peng, Wenjing Yang, Jing Zhao*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.11989)
+
+**Finetuning-Free Personalization of Text to Image Generation via Hypernetworks**<br>
+*Sagar Shrestha, Gopal Sharma, Luowei Zhou, Suren Kumar*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.03156)
+
+**PSTF-AttControl: Per-Subject-Tuning-Free Personalized Image Generation with Controllable Face Attributes**<br>
+*Xiang liu, Zhaoxiang Liu, Huan Hu, Zipeng Wang, Ping Chen, Zezhou Chen, Kai Wang, Shiguo Lian*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.25084) / [Code](https://github.com/UnicomAI/PSTF-AttControl)
+
+**FreeFuse: Multi-Subject LoRA Fusion via Auto Masking at Test Time**<br>
+*Yaoli Liu, Yao-Xiang Ding, Kun Zhou*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.23515) / [Project](https://future-item.github.io/FreeFuse/)
+
+**Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning**<br>
+*Xiangyu Meng, Zixian Zhang, Zhenghao Zhang, Junchao Liao, Long Qin, Weizhi Wang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.14256) / [Project](https://ali-videoai.github.io/identity_page/) / [Code](https://github.com/alibaba/identity-grpo)
+
+**WithAnyone: Towards Controllable and ID Consistent Image Generation**<br>
+*Hengyuan Xu, Wei Cheng, Peng Xing, Yixiao Fang, Shuhan Wu, Rui Wang, Xianfang Zeng, Daxin Jiang, Gang Yu, Xingjun Ma, Yu-Gang Jiang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.14975) / [Project](https://doby-xu.github.io/WithAnyone/) / [Code](https://github.com/Doby-Xu/WithAnyone)
+
+**UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward**<br>
+*Yufeng Cheng, Wenxu Wu, Shaojin Wu, Mengqi Huang, Fei Ding, Qian He*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.06818) / [Project](https://bytedance.github.io/UMO/) / [Code](https://github.com/bytedance/UMO)
+
+**EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation**<br>
+*Guandong Li, Zhaobin Chu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.05659)
+
+**CraftGraffiti: Exploring Human Identity with Custom Graffiti Art via Facial-Preserving Diffusion Models**<br>
+*Ayan Banerjee, Fernando Vilariño, Josep Lladós*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.20640) / [Code](https://github.com/ayanban011/CraftGraffiti)
+
+**ID-EA: Identity-driven Text Enhancement and Adaptation with Textual Inversion for Personalized Text-to-Image Generation**<br>
+*Hyun-Jun Jin, Young-Eun Kim, Seong-Whan Lee*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.11990)
+
+**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**<br>
+*Wonwoong Cho, Yanxia Zhang, Yan-Ying Chen, David I. Inouye*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.24085) / [Project](https://imagineforme.github.io/) / [Code](https://github.com/WonwoongCho/IT-Blender)
+
+**FastFace: Tuning Identity Preservation in Distilled Diffusion via Guidance and Attention**<br>
+*Sergey Karpukhin, Vadim Titov, Andrey Kuznetsov, Aibek Alanov*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.21144) / [Code](https://github.com/ControlGenAI/FastFace)
+
 **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**<br>
 *Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan*<br>
 CVPR 2025 (Highlight).  /  [PDF](https://arxiv.org/abs/2411.17440) / [Project](https://pku-yuangroup.github.io/ConsisID/) / [Code](https://github.com/PKU-YuanGroup/ConsisID)
@@ -785,6 +956,22 @@ Arxiv 2023.  / [PDF](https://arxiv.org/abs/2305.10431)  / [Project](https://hanl
 
 ### Character-Driven Generation
 
+**DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models**<br>
+*Patrick Kwon, Chen Chen*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2512.01686) / [Project](https://yj7082126.github.io/dreamingcomics/)
+
+**From Wardrobe to Canvas: Wardrobe Polyptych LoRA for Part-level Controllable Human Image Generation**<br>
+*Jeongho Kim, Sunghyun Park, Hyoungwoo Park, Sungrack Yun, Jaegul Choo, Seokeon Choi*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.10217)
+
+**CharaConsist: Fine-Grained Consistent Character Generation**<br>
+*Mengyu Wang, Henghui Ding, Jianing Peng, Yao Zhao, Yunpeng Chen, Yunchao Wei*<br>
+ICCV 2025.  / [PDF](http://arxiv.org/abs/2507.11533) / [Project](https://murray-wang.github.io/CharaConsist/) / [Code](https://github.com/Murray-Wang/CharaConsist)
+
+**Retrieval Augmented Comic Image Generation**<br>
+*Yunhao Shui, Xuekuan Wang, Feng Qiu, Yuqiu Huang, Jinzhu Li, Haoyu Zheng, Jinru Han, Zhuo Zeng, Pengpeng Zhang, Jiarui Han, Keqiang Sun*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.12517)
+
 **InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework**<br>
 *Jiale Tao, Yanbing Zhang, Qixun Wang, Yiji Cheng, Haofan Wang, Xu Bai, Zhengguang Zhou, Ruihuang Li, Linqing Wang, Chunyu Wang, Qin Lin, Qinglin Lu*<br>
 Arxiv 2025.  / [PDF](https://arxiv.org/abs/2504.12395)  / [Project](https://instantcharacter.github.io/) / [Code](https://github.com/Tencent/InstantCharacter)
@@ -842,6 +1029,66 @@ WACV 2024.  / [PDF](https://arxiv.org/abs/2211.10950v1)  / [Code](https://github
 SIGGRPAH 2024.  / [PDF](https://arxiv.org/abs/2311.10093)  / [Project](https://omriavrahami.com/the-chosen-one/)  / [Code](https://github.com/ZichengDuan/TheChosenOne)
 
 ### Style-Driven Generation
+
+**A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space**<br>
+*Huijie Liu, Shuhao Cui, Haoxiang Cao, Shuai Ma, Kai Wu, Guoliang Kang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.10555) / [Code](https://github.com/Kwai-Kolors/CoTyle)
+
+**SplitFlux: Learning to Decouple Content and Style from a Single Image**<br>
+*Yitong Yang, Yinglin Wang, Changshuo Wang, Yongjun Zhang, Ziyang Chen, Shuting He*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.15258)
+
+**NP-LoRA: Null Space Projection Unifies Subject and Style in LoRA Fusion**<br>
+*Chuheng Chen, Xiaofei Zhou, Geyuan Zhang, Yong Huang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.11051)
+
+**OmniStyle2: Scalable and High Quality Artistic Style Transfer Data Generation via Destylization**<br>
+*Ye Wang, Zili Yi, Yibo Zhang, Peng Zheng, Xuping Xie, Jiang Lin, Yilin Wang, Rui Ma*<br>
+CVPR 2025.  / [PDF](http://arxiv.org/abs/2509.05970) / [Code](https://github.com/StyleX-Research/OmniStyle)
+
+**USO: Unified Style and Subject-Driven Generation via Disentangled and Reward Learning**<br>
+*Shaojin Wu, Mengqi Huang, Yufeng Cheng, Wenxu Wu, Jiahe Tian, Yiming Luo, Fei Ding, Qian He*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.18966) / [Project](https://bytedance.github.io/USO/) / [Code](https://github.com/bytedance/USO)
+
+**Leveraging Diffusion Models for Stylization using Multiple Style Images**<br>
+*Dan Ruta, Abdelaziz Djelouah, Raphael Ortiz, Christopher Schroers*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.12784)
+
+**SPG: Style-Prompting Guidance for Style-Specific Content Creation**<br>
+*Qian Liang, Zichong Chen, Yang Zhou, Hui Huang*<br>
+Pacific Graphics 2025.  / [PDF](http://arxiv.org/abs/2508.11476) / [Code](https://github.com/Rumbling281441/SPG)
+
+**Subject or Style: Adaptive and Training-Free Mixture of LoRAs**<br>
+*Jia-Chen Zhang, Yu-Jie Xiong*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.02165)
+
+**A Training-Free Style-Personalization via Scale-wise Autoregressive Model**<br>
+*Kyoungmin Lee, Jihun Park, Jongmin Gim, Wonhyeok Choi, Kyumin Hwang, Jaeyeul Kim, Sunghoon Im*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.04482)
+
+**Only-Style: Stylistic Consistency in Image Generation without Content Leakage**<br>
+*Tilemachos Aravanis, Panagiotis Filntisis, Petros Maragos, George Retsinas*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.09916) / [Project](https://tilemahosaravanis.github.io/Only-Style-PP/) / [Code](https://github.com/TilemahosAravanis/Only-Style)
+
+**ConsiStyle: Style Diversity in Training-Free Consistent T2I Generation**<br>
+*Yohai Mazuz, Janna Bruner, Lior Wolf*<br>
+SIGGRPAH Asia 2025.  / [PDF](http://arxiv.org/abs/2505.20626) / [Project](https://jbruner23.github.io/consistyle/)
+
+**Training-free Stylized Text-to-Image Generation with Fast Inference**<br>
+*Xin Ma, Yaohui Wang, Xinyuan Chen, Tien-Tsin Wong, Cunjian Chen*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.19063)
+
+**StyleAR: Customizing Multimodal Autoregressive Model for Style-Aligned Text-to-Image Generation**<br>
+*Yi Wu, Lingting Zhu, Shengju Qian, Lei Liu, Wandi Qiao, Lequan Yu, Bin Li*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.19874) / [Project](https://stylear.github.io/) / [Code](https://github.com/wuyi2020/StyleAR)
+
+**OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data**<br>
+*Yiren Song, Cheng Liu, Mike Zheng Shou*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.18445) / [Code](https://github.com/showlab/OmniConsistency) / [Dataset](https://huggingface.co/datasets/showlab/OmniConsistency)
+
+**CDST: Color Disentangled Style Transfer for Universal Style Reference Customization**<br>
+*Shiwen Zhang, Zhuowei Chen, Lang Chen, Yanze Wu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.13770)
 
 **Style Customization of Text-to-Vector Generation with Image Diffusion Priors**<br>
 *Peiying Zhang, Nanxuan Zhao, Jing Liao*<br>
@@ -933,6 +1180,10 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2211.13203v3)  / [Code](https://github
 
 ### High-level Semantics Generation
 
+**PhyCustom: Towards Realistic Physical Customization in Text-to-Image Generation**<br>
+*Fan Wu, Cheng Chen, Zhoujie Fu, Jiacheng Wei, Yi Xu, Deheng Ye, Guosheng Lin*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2512.02794) / [Code](https://github.com/wufan-cse/PhyCustom)
+
 **Event-Customized Image Generation**<br>
 *Wang, Zhen and Jiang, Yilei and Zheng, Dong and Xiao, Jun and Chen, Long.*<br>
 Arxiv 2024.  / [PDF](https://arxiv.org/abs/2410.02483)
@@ -958,6 +1209,98 @@ CVPR 2024.  / [PDF](https://arxiv.org/abs/2311.15841v5)  / [Project](https://adi
 SIGGRAPH Asia 2024.  / [PDF](https://arxiv.org/abs/2303.13495)  / [Project](https://ziqihuangg.github.io/projects/reversion.html)  / [Code](https://github.com/ziqihuangg/ReVersion)
 
 ### Multiple Concepts Generation
+
+**PSR: Scaling Multi-Subject Personalized Image Generation with Pairwise Subject-Consistency Rewards**<br>
+*Shulei Wang, Longhui Wei, Xin He, Jianbo Ouyang, Hui Lu, Zhou Zhao, Qi Tian*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2512.01236) / [Code](https://github.com/wang-shulei/PSR)
+
+**iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation**<br>
+*Zhoujie Fu, Xianfang Zeng, Jinghong Lan, Xinyao Liao, Cheng Chen, Junyi Chen, Jiacheng Wei, Wei Cheng, Shiyu Liu, Yunuo Chen, Gang Yu, Guosheng Lin*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.20635) / [Project](https://kr1sjfu.github.io/iMontage-web/)
+
+**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**<br>
+*Yusuf Dalva, Guocheng Gordon Qian, Maya Goldenberg, Tsai-Shien Chen, Kfir Aberman, Sergey Tulyakov, Pinar Yanardag, Kuan-Chieh Jackson Wang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.21691) / [Project](https://snap-research.github.io/canvas-to-image/) 
+
+**MIFO: Learning and Synthesizing Multi-Instance from One Image**<br>
+*Kailun Su, Ziqi He, Xi Wang, Yang Zhou*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.00542)
+
+**LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas**<br>
+*Guocheng Gordon Qian, Ruihang Zhang, Tsai-Shien Chen, Yusuf Dalva, Anujraaj Argo Goyal, Willi Menapace, Ivan Skorokhodov, Meng Dong, Arpit Sahni, Daniil Ostashev, Ju Hu, Sergey Tulyakov, Kuan-Chieh Jackson Wang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.20820) / [Project](https://snap-research.github.io/layercomposer/)
+
+**Chimera: Compositional Image Generation using Part-based Concepting**<br>
+*Shivam Singh, Yiming Chen, Agneet Chatterjee, Amit Raj, James Hays, Yezhou Yang, Chitta Baral*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.18083) / [Project](https://chimera-compositional-image-generation.vercel.app/) / [Code](https://github.com/shivamsingh-gpu/Chimera)
+
+**ContextGen: Contextual Layout Anchoring for Identity-Consistent Multi-Instance Generation**<br>
+*Ruihang Xu, Dewei Zhou, Fan Ma, Yi Yang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.11000) / [Project](https://nenhang.github.io/ContextGen/) / [Code](https://github.com/nenhang/ContextGen)
+
+**Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter**<br>
+*Weizhi Zhong, Huan Yang, Zheng Liu, Huiguo He, Zijian He, Xuesong Niu, Di Zhang, Guanbin Li*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.18612)
+
+**PartComposer: Learning and Composing Part-Level Concepts from Single-Image Examples**<br>
+*Junyu Liu, R. Kenny Jones, Daniel Ritchie*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.03004)
+
+**MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware Alignment and Disentanglement**<br>
+*Dong She, Siming Fu, Mushui Liu, Qiaoqiao Jin, Hualiang Wang, Mu Liu, Jidong Jiang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.01977) / [Project](https://bytedance-fanqie-ai.github.io/MOSAIC/) / [Code](https://github.com/bytedance-fanqie-ai/MOSAIC)
+
+**FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus**<br>
+*Qiaoqiao Jin, Siming Fu, Dong She, Weinan Jia, Hualiang Wang, Mu Liu, Jidong Jiang*<br>
+AAAI 2026.  / [PDF](http://arxiv.org/abs/2509.01181) / [Project](https://bytedance-fanqie-ai.github.io/FocusDPO/) / [Code](https://github.com/bytedance-fanqie-ai/FocusDPO)
+
+**Interact-Custom: Customized Human Object Interaction Image Generation**<br>
+*Zhu Xu, Zhaowen Wang, Yuxin Peng, Yang Liu*<br>
+ACMMM 2025.  / [PDF](http://arxiv.org/abs/2508.19575) / [Code](https://github.com/XZPKU/Inter-custom)
+
+**MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion**<br>
+*Fei Peng, Junqiang Wu, Yan Li, Tingting Gao, Di Zhang, Huiyuan Fu*<br>
+ICCV 2025.  / [PDF](http://arxiv.org/abs/2508.14440) / [Code](https://github.com/pf0607/MUSE)
+
+**TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models**<br>
+*Yuqi Peng, Lingtao Zheng, Yufeng Yang, Yi Huang, Mingfu Yan, Jianzhuang Liu, Shifeng Chen*<br>
+AAAI 2026.  / [PDF](http://arxiv.org/abs/2508.08812) / [Code](https://github.com/YuqiPeng77/TARA)
+
+**PositionIC: Unified Position and Identity Consistency for Image Customization**<br>
+*Junjie Hu, Tianyang Han, Kai Ma, Jialin Gao, Hao Dou, Song Yang, Xianhua He, Jianhui Zhang, Junfeng Luo, Xiaoming Wei, Wenqiang Zhang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.13861)
+
+**LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer**<br>
+*Yuzhuo Chen, Zehua Ma, Jianhua Wang, Kai Kang, Shunyu Yao, Weiming Zhang*<br>
+AAAI 2026.  / [PDF](http://arxiv.org/abs/2508.00477) / [Code](https://github.com/Suchenl/LAMIC)
+
+**QR-LoRA: Efficient and Disentangled Fine-tuning via QR Decomposition for Customized Generation**<br>
+*Jiahui Yang, Yongjia Ma, Donglin Di, Hao Li, Wei Chen, Yan Xie, Jianxun Cui, Xun Yang, Wangmeng Zuo*<br>
+ICCV 2025.  / [PDF](http://arxiv.org/abs/2507.04599) / [Project](https://luna-ai-lab.github.io/QR-LoRA/) / [Code](https://github.com/luna-ai-lab/QR-LoRA)
+
+**FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization**<br>
+*Peng Zheng, Ye Wang, Rui Ma, Zuxuan Wu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.01792)
+
+**XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation**<br>
+*Bowen Chen, Mengyi Zhao, Haomiao Sun, Li Chen, Xu Wang, Kang Du, Xinglong Wu*<br>
+NeurIPS 2025.  / [PDF](http://arxiv.org/abs/2506.21416) / [Project](https://bytedance.github.io/XVerse/) / [Code](https://github.com/bytedance/XVerse)
+
+**ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation**<br>
+*Trong-Vu Hoang, Quang-Binh Nguyen, Thanh-Toan Do, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.18493)
+
+**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**<br>
+*Yusuf Dalva, Hidir Yesiltepe, Pinar Yanardag*<br>
+NeurIPS 2025.  / [PDF](http://arxiv.org/abs/2505.23758) / [Project](https://lorashop.github.io/) / [Code](https://github.com/gemlab-vt/LoRAShop)
+
+**Create Anything Anywhere: Layout-Controllable Personalized Diffusion Model for Multiple Subjects**<br>
+*Wei Li, Hebei Li, Yansong Peng, Siying Wu, Yueyi Zhang, Xiaoyan Sun*<br>
+ICME 2025.  / [PDF](http://arxiv.org/abs/2505.20909)
+
+**MultLFG: Training-free Multi-LoRA composition using Frequency-domain Guidance**<br>
+*Aniket Roy, Maitreya Suin, Ketul Shah, Rama Chellappa*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.20525)
 
 **MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**<br>
 *Zinan Guo, Pengze Zhang, Yanze Wu, Chong Mou, Songtao Zhao, Qian He*<br>
@@ -1109,9 +1452,81 @@ CVPR 2023.  / [PDF](https://arxiv.org/abs/2212.04488v2)  / [Project](https://www
 
 ### Personalized Video Generation
 
+**First Frame Is the Place to Go for Video Content Customization**<br>
+*Jingxi Chen, Zongxia Li, Zhichao Liu, Guangyao Shi, Xiyang Wu, Fuxiao Liu, Cornelia Fermuller, Brandon Y. Feng, Yiannis Aloimonos*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.15700) / [Project](https://firstframego.github.io/) / [Code](https://github.com/zli12321/FFGO-Video-Customization)
+
+**ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation**<br>
+*Panwang Pan, Jingjing Zhao, Yuchen Lin, Chenguo Lin, Chenxin Li, Haopeng Li, Honglei Yan, Tingting Shen, Yadong Mu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2511.00511)
+
+**CoMo: Compositional Motion Customization for Text-to-Video Generation**<br>
+*Youcan Xu, Zhen Wang, Jiaxin Shi, Kexin Li, Feifei Shao, Jun Xiao, Yi Yang, Jun Yu, Long Chen*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.23007) / [Project](https://como6.github.io/)
+
+**BachVid: Training-Free Video Generation with Consistent Background and Character**<br>
+*Han Yan, Xibin Song, Yifu Wang, Hongdong Li, Pan Ji, Chao Ma*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.21696) / [Project](https://wolfball.github.io/bachvid/) / [Code](https://github.com/wolfball/BachVid)
+
+**Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization**<br>
+*Liao Shen, Wentao Jiang, Yiran Zhu, Jiahe Li, Tiezheng Ge, Zhiguo Cao, Bo Zheng*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.14255) / [Project](https://ipro-alimama.github.io/)
+
+**OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**<br>
+*Yuanhao Cai, He Zhang, Xi Chen, Jinbo Xing, Yiwei Hu, Yuqian Zhou, Kai Zhang, Zhifei Zhang, Soo Ye Kim, Tianyu Wang, Yulun Zhang, Xiaokang Yang, Zhe Lin, Alan Yuille*<br>
+NeurIPS 2025.  / [PDF](http://arxiv.org/abs/2506.23361) / [Code](https://github.com/caiyuanhao1998/Open-OmniVCus)
+
+**MAGREF: Masked Guidance for Any-Reference Video Generation with Subject Disentanglement**<br>
+*Yufan Deng, Yuanyang Yin, Xun Guo, Yizhi Wang, Jacob Zhiyuan Fang, Shenghai Yuan, Yiding Yang, Angtian Wang, Bo Liu, Haibin Huang, Chongyang Ma*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2505.23742) / [Project](https://magref-video.github.io/) / [Code](https://github.com/MAGREF-Video/MAGREF)
+
+**HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**<br>
+*Liyang Chen, Tianxiang Ma, Jiawei Liu, Bingchuan Li, Zhuowei Chen, Lijie Liu, Xu He, Gen Li, Qian He, Zhiyong Wu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.08519) / [Project](https://phantom-video.github.io/HuMo/) / [Code](https://github.com/Phantom-video/HuMo)
+
+**Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement**<br>
+*Jiayi Gao, Changcheng Hua, Qingchao Chen, Yuxin Peng, Yang Liu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2509.01362) / [Code](https://github.com/Andyplus1/IPT2V)
+
+**PersonaAnimator: Personalized Motion Transfer from Unconstrained Videos**<br>
+*Ziyun Qian, Runyu Xiao, Shuyuan Tu, Wei Xue, Dingkang Yang, Mingcheng Li, Dongliang Kou, Minghao Han, Zizhi Chen, Lihua Zhang*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.19895)
+
+**Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation**<br>
+*Bowen Xue, Qixin Yan, Wenjing Wang, Hao Liu, Chen Li*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.07901) / [Code](https://github.com/WeChatCV/Stand-In)
+
+**LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation**<br>
+*Wenhui Song, Hanhui Li, Jiehui Huang, Panwen Hu, Yuhao Cheng, Long Chen, Yiqiang Yan, Xiaodan Liang*<br>
+ACMMM 2025.  / [PDF](http://arxiv.org/abs/2508.07603) / [Code](https://github.com/ssugarwh/LaVieID)
+
+**Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations**<br>
+*Yuji Wang, Moran Li, Xiaobin Hu, Ran Yi, Jiangning Zhang, Han Feng, Weijian Cao, Yabiao Wang, Chengjie Wang, Lizhuang Ma*<br>
+ACMMM 2025.  / [PDF](http://arxiv.org/abs/2507.04705) / [Code](https://github.com/rain152/IPVG)
+
+**Zero-Shot Dynamic Concept Personalization with Grid-Based LoRA**<br>
+*Rameen Abdal, Or Patashnik, Ekaterina Deyneka, Hao Chen, Aliaksandr Siarohin, Sergey Tulyakov, Daniel Cohen-Or, Kfir Aberman*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2507.17963) / [Project](https://snap-research.github.io/zero-shot-dynamic-concepts/)
+
+**Proteus-ID: ID-Consistent and Motion-Coherent Video Customization**<br>
+*Guiyu Zhang, Chen Shi, Zijian Jiang, Xunzhi Xiang, Jingjing Qian, Shaoshuai Shi, Li Jiang*<br>
+SIGGRAPH Asia 2025.  / [PDF](http://arxiv.org/abs/2506.23729) / [Project](https://grenoble-zhang.github.io/Proteus-ID/) / [Code](https://github.com/grenoble-zhang/Proteus-ID)
+
+**Training-Free Motion Customization for Distilled Video Generators with Adaptive Test-Time Distillation**<br>
+*Jintao Rong, Xin Xie, Xinyi Yu, Linlin Ou, Xinyu Zhang, Chunhua Shen, Dong Gong*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.19348) / [Project](https://euminds.github.io/motionecho/) 
+
+**EchoShot: Multi-Shot Portrait Video Generation**<br>
+*Jiahao Wang, Hualian Sheng, Sijia Cai, Weizhan Zhang, Caixia Yan, Yachuang Feng, Bing Deng, Jieping Ye*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2506.15838) / [Project](https://johnneywang.github.io/EchoShot-webpage/) / [Code](https://github.com/JoHnneyWang/EchoShot)
+
+**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**<br>
+*Teng Hu, Zhentao Yu, Zhengguang Zhou, Jiangning Zhang, Yuan Zhou, Qinglin Lu, Ran Yi*<br>
+NeurIPS 2025.  / [PDF](http://arxiv.org/abs/2506.07848) / [Project](https://sjtuplayer.github.io/projects/PolyVivid/)
+
 **OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation**<br>
 *Shenghai Yuan, Xianyi He, Yufan Deng, Yang Ye, Jinfa Huang, Bin Lin, Jiebo Luo, Li Yuan*<br>
-Arxiv 2025.  /  [PDF](https://arxiv.org/abs/2505.20292) / [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus/) / [Code](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
+NeurIPS 2025 D&B.  /  [PDF](https://arxiv.org/abs/2505.20292) / [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus/) / [Code](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
 
 **Identity-Preserving Text-to-Video Generation by Frequency Decomposition**<br>
 *Shenghai Yuan, Jinfa Huang, Xianyi He, Yunyuan Ge, Yujun Shi, Liuhan Chen, Jiebo Luo, Li Yuan*<br>
@@ -1239,6 +1654,10 @@ CVPR 2024.  / [PDF](https://arxiv.org/abs/2312.13964v3)  / [Project](https://pi-
 
 ### Personalized 3D Generation
 
+**MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion**<br>
+*Minjung Shin, Hyunin Cho, Sooyeon Go, Jin-Hwa Kim, Youngjung Uh*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.13702) / [Project](https://minjung-s.github.io/mvcustom) / [Code](https://github.com/minjung-s/MVCustom)
+
 **Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image**<br>
 *Yuxuan Wang, Xuanyu Yi, Qingshan Xu, Yuan Zhou, Long Chen, Hanwang Zhang*<br>
 Arxiv 2025. / [PDF](https://arxiv.org/abs/2505.14537) / [Code]([https://github.com/NVlabs/dream-in-4d](https://github.com/Yuxuan-W/CP-GS))
@@ -1350,6 +1769,15 @@ SIGGRAPH 2023.  / [PDF](https://arxiv.org/abs/2206.02779)  / [Project](https://o
 CVPR 2022.  / [PDF](https://arxiv.org/abs/2111.14818)  / [Project](https://omriavrahami.com/blended-diffusion-page/)  / [Code](https://github.com/omriav/blended-diffusion)
 
 ## Personalization with AR Models
+
+**TokenAR: Multiple Subject Generation via Autoregressive Token-level enhancement**<br>
+*Haiyue Sun, Qingdong He, Jinlong Peng, Peng Tang, Jiangning Zhang, Junwei Zhu, Xiaobin Hu, Shuicheng Yan*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2510.16332) / [Code](https://github.com/lyrig/TokenAR)
+
+
+**CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation**<br>
+*Fangtai Wu, Mushui Liu, Weijie He, Wanggui He, Hao Jiang, Zhao Wang, Yunlong Yu*<br>
+Arxiv 2025.  / [PDF](http://arxiv.org/abs/2508.07341) / [Code](https://github.com/KZF-kzf/CoAR)
 
 **Emerging Properties in Unified Multimodal Pretraining**<br>
 *Chaorui Deng, Deyao Zhu, Kunchang Li, Chenhui Gou, Feng Li, Zeyu Wang, Shu Zhong, Weihao Yu, Xiaonan Nie, Ziang Song, Guang Shi, Haoqi Fan*<br>
