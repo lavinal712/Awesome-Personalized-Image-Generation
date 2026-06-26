@@ -22,6 +22,7 @@ This repo is used for recording and tracking recent personalized image generatio
 - [Personalization with GANs](#Personalization-with-GANs)
   - [GAN Inversion](#GAN-Inversion)
   - [Latent Editing](#Latent-Editing)
+- [Related Benchmarks](#Related-Benchmarks)
 - [Related Surveys](#Related-Surveys)
 
 ## Personalization with Diffusion Models
@@ -2133,6 +2134,12 @@ ICML 2020.  / [PDF](https://arxiv.org/abs/2002.03754)  / [Code](https://github.c
 *Ramesh, Aditya and Choi, Youngduck and LeCun, Yann.*<br>
 Arxiv 2018.  / [PDF](https://arxiv.org/abs/1812.01161)
 
+## Related Benchmarks
+
+**ImageBench**<br>
+Public benchmark and comparison site for text-to-image models with side-by-side outputs, pass-rate summaries, and methodology pages.<br>
+[Website](https://imagebench.ai)
+
 ## Related Surveys
 
 **Personalized Generation In Large Model Era: A Survey**<br>
@@ -2166,4 +2173,3 @@ SCIS 2023. / [PDF](https://arxiv.org/abs/2207.10309) / [Code](https://github.com
 **GAN Inversion: A Survey**<br>
 *Weihao Xia, Yulun Zhang, Yujiu Yang, Jing-Hao Xue, Bolei Zhou, Ming-Hsuan Yang*<br>
 TPAMI 2022. / [PDF](https://arxiv.org/abs/2101.05278) / [Code](https://github.com/weihaox/GAN-Inversion)
-
